@@ -5,8 +5,9 @@ This is a fun and simple word-guessing game where your goal is to figure out the
 
 The program highlights key concepts such as:
 
-While Loops
-Control Flow
-Using Modules
+- While Loops
+- Control Flow
+- Using Modules
+
 
 Enjoy the game!
