@@ -4,8 +4,9 @@ The Higher Lower Game is a simple Python program where players guess which optio
 
 This project focuses on:
 
-Using functions
-Iterating through dictionary values
-Practicing basic Python logic
+- Using functions
+- Iterating through dictionary values
+- Practicing basic Python logic
 
 Thank you.
+
